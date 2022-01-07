@@ -5,7 +5,7 @@ import Link from "next/link";
 
 //Style for navigation bar background
 const StyledNavigation = styled.nav`
-  background-color: #292929;
+  background-color: #28375d;
   color:#ebebeb;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -54,6 +54,18 @@ const Navigation = () => {
         <Link href="/">
           <Button>Home</Button>
         </Link>
+        <Link href="/events">
+          <Button>Events</Button>
+        </Link> 
+        <Link href="/exec">
+          <Button>Executive Team</Button>
+        </Link>
+        <Link href="/contact">
+          <Button>Contact us</Button>
+        </Link>
+        <a target="_blank" href="https://github.com/vecnz/documents">
+          <Button>Documents</Button>
+        </a>
       </Section>
     </StyledNavigation>
   );
