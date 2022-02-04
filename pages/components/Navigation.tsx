@@ -58,10 +58,19 @@ const Navigation = () => {
           <Button>Events</Button>
         </Link> 
         <Link href="/exec">
-          <Button>Executive Team</Button>
+          <Button>Executives</Button>
         </Link>
         <Link href="/contact">
-          <Button>Contact us</Button>
+          <Button>Contact</Button>
+        </Link>
+        <Link href="/subclubs">
+          <Button>SubClubs</Button>
+        </Link>
+        <Link href="/sponsors">
+          <Button>Sponsors</Button>
+        </Link>
+        <Link href="/projects">
+          <Button>Projects</Button>
         </Link>
         <a target="_blank" href="https://github.com/vecnz/documents">
           <Button>Documents</Button>
