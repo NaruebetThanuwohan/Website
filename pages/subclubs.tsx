@@ -2,6 +2,7 @@ import Container from "./components/Container";
 import Content from "./components/Content";
 import Footer from "./components/Footer";
 import Navigation from "./components/Navigation";
+import { Header, LI, Paragraph, UL } from "./components/Styles";
 
 
 const subclubs = () =>{
@@ -9,7 +10,15 @@ const subclubs = () =>{
     <Container>
       <Navigation/>
       <Content>
-        <h1>REE</h1>
+        <Header>All Sub-Clubs</Header>
+        <UL>
+          <LI>
+            <Header>VRAM</Header>
+            <Paragraph>
+              DEFAULT INFORMATION
+            </Paragraph>
+          </LI>
+        </UL>
       </Content>
       <Footer/>
     </Container>
