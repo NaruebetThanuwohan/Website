@@ -2,18 +2,23 @@ import Container from "./components/Container";
 import Content from "./components/Content";
 import Footer from "./components/Footer";
 import Navigation from "./components/Navigation";
+import { Header, LI, UL } from "./components/Styles";
 
-
-const contact = () =>{
-  return(
+const contact = () => {
+  return (
     <Container>
-      <Navigation/>
+      <Navigation />
       <Content>
-        <h1>REE</h1>
+        <Header>Contact Methods</Header>
+        <br />
+        <UL>
+          <LI>VEC Email: </LI>
+          <LI></LI>
+        </UL>
       </Content>
-      <Footer/>
+      <Footer />
     </Container>
-  )
-}
+  );
+};
 
 export default contact;

@@ -2,6 +2,7 @@ import Container from "./components/Container";
 import Content from "./components/Content";
 import Footer from "./components/Footer";
 import Navigation from "./components/Navigation";
+import { Header } from "./components/Styles";
 
 
 const sponsors = () =>{
@@ -9,7 +10,7 @@ const sponsors = () =>{
     <Container>
       <Navigation/>
       <Content>
-        <h1>REE</h1>
+        <Header>Club Sponsors</Header>
       </Content>
       <Footer/>
     </Container>
