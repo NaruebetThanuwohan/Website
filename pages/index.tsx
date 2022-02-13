@@ -10,6 +10,7 @@ const Home: NextPage = () => {
     <Container>
       <Navigation />
       <Content>
+        <Header><a href="https://forms.gle/ooUf1NSCgUJV8h4H9">Registration form: Click here</a></Header>
         <Header>
           Welcome to the official Victoria Engineering Club website!
         </Header>
