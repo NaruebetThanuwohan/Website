@@ -36,11 +36,11 @@ enableRobotsTXT = true
 
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "VEC"
+    meta_og_title = "VISDA"
     meta_og_type = "website"
-    meta_og_url = "https://vec.ac.nz"
+    meta_og_url = "https://visda.vec.ac.nz"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "Victoria Engineering Club"
+    meta_og_description = "VISDA: VEC"
 
 [menu]
   [[menu.main]]
@@ -82,7 +82,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "register"
     name = "Register"
-    url = "https://forms.gle/ooUf1NSCgUJV8h4H9"
+    url = "https://vuw.qualtrics.com/jfe/form/SV_6D2hjJlY8Hu0hqm?fbclid=IwAR0gSbuVxU-hluLO6WHialiBAA8XTC38SMsovv7a2TSiQfE2yuGNzSj2qYs"
     weight = 7
 
   # Footer Menu
