@@ -25,4 +25,4 @@ The VISDA Team operates under the VEC Board.
 ## University Staff
 - [Yi-Te Chiu](https://people.wgtn.ac.nz/yi-te.chiu) 
 
-Last updated: 7/05/2022 
+Last updated: 8/05/2022 
