@@ -22,7 +22,14 @@ The VISDA Team operates under the VEC Board.
 - VACANT, Technology Officer 
 - VACANT, Equity 
 
+
+
+## Advisory Committee: 
 ## University Staff
 - [Yi-Te Chiu](https://people.wgtn.ac.nz/yi-te.chiu) 
+
+## Industry Advisors 
+- Christopher Beeston, Technical Advisor 
+
 
 Last updated: 7/05/2022 
